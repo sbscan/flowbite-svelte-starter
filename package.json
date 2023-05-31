@@ -61,5 +61,11 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/shinokada/flowbite-svelte-starter.git"
+	},
+	"dependencies": {
+		"datatables.net-dt": "^1.13.4",
+		"gridjs": "^6.0.6",
+		"gridjs-svelte": "^2.1.1",
+		"mariadb": "^3.1.2"
 	}
 }

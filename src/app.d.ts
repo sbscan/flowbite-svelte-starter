@@ -8,3 +8,5 @@ declare namespace App {
 	// interface Session {}
 	// interface Stuff {}
 }
+
+import 'https://cdn.jsdelivr.net/npm/gridjs/dist/theme/mermaid.min.css';
